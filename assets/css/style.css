@@ -405,7 +405,7 @@ h6 {
   padding-top: 72px;
 }
 
-#hero h1 p {
+#hero .welcome {
   margin: 0 0 10px 0;
   font-size: 48px;
   font-weight: 700;
